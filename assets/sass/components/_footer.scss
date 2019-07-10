@@ -1,0 +1,10 @@
+.footer {
+  background-color: $eerie-black;
+  color: $white;
+  text-align: center;
+  padding: 3em;
+
+  &__logo {
+    width: 150px;
+  }
+}

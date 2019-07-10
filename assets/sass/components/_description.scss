@@ -1,0 +1,10 @@
+.description {
+  margin: 2em auto;
+  font-size: $large;
+
+  &__text {
+    @extend .description;
+    line-height: 2.5em;
+    margin-top: 3em;
+    }
+}

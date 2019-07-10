@@ -1,0 +1,14 @@
+.hero-section {
+  background-image: url('../images/post-image.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 15rem 20rem 5rem 20rem;
+  height: 700px;
+
+  &__title {
+    color: $white;
+    font-size: $xx-large;
+    font-style: italic;
+    text-align: center;
+  }
+}
